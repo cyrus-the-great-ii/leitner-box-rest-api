@@ -1,12 +1,14 @@
-**Leitner Box - NestJS REST API**
+**📦 Leitner Box - NestJS REST API**
 
-# Project setup
+This repository contains a NestJS-based REST API that implements the Leitner system for spaced repetition learning. It enables users to create flashcards with words and phrases, organize them into boxes based on recall performance, and schedule reviews following the Leitner algorithm. The API provides endpoints for managing flashcards, conducting review sessions, and tracking learning progress, making it ideal for language learners and vocabulary builders.
+
+# ⚙️ Project setup
 
 ```bash
 $ pnpm install
 ```
 
-# Compile and run the project
+# 🚀 Compile and run the project
 
 ```bash
 # development
@@ -19,7 +21,7 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 
-# Run tests
+# 🧪 Run tests
 
 ```bash
 # unit tests
